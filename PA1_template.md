@@ -1,11 +1,4 @@
----
-title: "Personal Movement Analysis of a Smart Device User"
-author: "John Woods"
-date: "02/02/2022"
-output: 
-  html_document: 
-    keep_md: yes
----
+# Personal Movement Analysis of a Smart Device User
 
 
 
